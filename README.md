@@ -1,2 +1,2 @@
 # my-super-website
-Quest 2 - Git
+Quest 3 - Git
